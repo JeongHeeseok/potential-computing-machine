@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">AS_kotlin_dev</string>
+<<<<<<< HEAD
+    <string name="app_name">AS_kotlin_original</string>
+
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
